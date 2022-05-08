@@ -69,6 +69,17 @@ function funcion2(int $entero, string $texto)
 
 
 // Ejecución de la segunda función
+
 $prueba = funcion2(2, "Función 2");
 // Mostramos por pantalla el resultado
 echo ($prueba);
+
+echo ("<h2> Tarea dawdistancia22 actualizada <h2>");
+
+
+
+
+
+
+
+
